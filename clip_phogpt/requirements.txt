@@ -1,0 +1,9 @@
+einops 
+nltk==3.9.1
+rouge-score
+pycocoevalcap
+pillow
+transformers 
+datasets 
+torch 
+torchvision
